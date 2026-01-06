@@ -28,7 +28,9 @@ install <- function(..., cran=TRUE) {
     "ncappc", # Campsisnca testing only
     "xgxr",
     "cowplot",
-    "ragg"
+    "ragg",
+    "plumber",
+    "arrow"
   )
   renv::install(packages=extras, ...)
 }
