@@ -1,7 +1,7 @@
 Type: Package
 Package: campsisverse
 Title: The official R package manager of the Campsis suite
-Version: 25.07.11
+Version: 26.01.05
 Authors@R: 
     person("Nicolas", "Luyckx", , "nicolas.luyckx@calvagone.com", role = c("aut", "cre"))
 Description: Easy installation and management of the Campsis suite.
