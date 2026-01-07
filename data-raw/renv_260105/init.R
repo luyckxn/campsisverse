@@ -16,7 +16,7 @@ options(INSTALL_opts="--install-tests")
 renv::install(
   packages=c(
     "Calvagone/campsismod@v1.3.0",
-    "Calvagone/campsis@v1.8.0",
+    "Calvagone/campsis@3fa97e3d94a943a6fc56dbc57dd1dd4f7f68be83",
     "Calvagone/campsisnca@v1.5.1",
     "Calvagone/campsismisc@v0.5.3",
     "Calvagone/campsisqual@v1.4.0",

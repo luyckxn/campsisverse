@@ -1369,10 +1369,10 @@
     },
     "campsis": {
       "Package": "campsis",
-      "Version": "1.8.0",
+      "Version": "1.8.1",
       "Source": "GitHub",
       "Type": "Package",
-      "Title": "Generic PK/PD Simulation Platform CAMPSIS",
+      "Title": "Generic PK/PD Simulation Platform Campsis",
       "Authors@R": "person(\"Nicolas\", \"Luyckx\", , \"nicolas.luyckx@calvagone.com\", role = c(\"aut\", \"cre\"))",
       "Description": "A generic, easy-to-use and intuitive pharmacokinetic/pharmacodynamic (PK/PD) simulation platform based on the R packages ‘rxode2’ and ‘mrgsolve’. Campsis provides an abstraction layer over the underlying processes of defining a PK/PD model, assembling a custom dataset and running a simulation. The package has a strong dependency on the R package ‘campsismod’, which allows models to be read from and written to files, including through a JSON-based interface, and to be adapted further on the fly in the R environment. In addition, ‘campsis’ allows users to assemble datasets in an intuitive manner, including via a JSON-based interface to import Campsis datasets defined using formal JSON schemas distributed with the package. Once the dataset is ready, the package prepares the simulation, calls ‘rxode2’ or ‘mrgsolve’ (at the user’s choice), and returns the results for the given model, dataset and desired simulation settings. The package itself is licensed under the GPL (>= 3); the JSON schema files shipped in inst/extdata are licensed separately under the Creative Commons Attribution 4.0 International (CC BY 4.0).",
       "License": "GPL (>= 3)",
@@ -1428,8 +1428,8 @@
       "RemoteHost": "api.github.com",
       "RemoteUsername": "Calvagone",
       "RemoteRepo": "campsis",
-      "RemoteRef": "v1.8.0",
-      "RemoteSha": "6562573f459e324a336a55836d3bc04fd86bcc19",
+      "RemoteRef": "3fa97e3d94a943a6fc56dbc57dd1dd4f7f68be83",
+      "RemoteSha": "3fa97e3d94a943a6fc56dbc57dd1dd4f7f68be83",
       "Remotes": "Calvagone/campsismod"
     },
     "campsismisc": {
