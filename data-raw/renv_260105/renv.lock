@@ -1428,8 +1428,8 @@
       "RemoteHost": "api.github.com",
       "RemoteUsername": "Calvagone",
       "RemoteRepo": "campsis",
-      "RemoteRef": "3fa97e3d94a943a6fc56dbc57dd1dd4f7f68be83",
-      "RemoteSha": "3fa97e3d94a943a6fc56dbc57dd1dd4f7f68be83",
+      "RemoteRef": "79c96351786171b60c8721ad0a9f2c409c09bf8d",
+      "RemoteSha": "79c96351786171b60c8721ad0a9f2c409c09bf8d",
       "Remotes": "Calvagone/campsismod"
     },
     "campsismisc": {
@@ -1545,7 +1545,7 @@
     },
     "campsisnca": {
       "Package": "campsisnca",
-      "Version": "1.5.1",
+      "Version": "1.5.2",
       "Source": "GitHub",
       "Type": "Package",
       "Title": "Campsis NCA Package",
@@ -1589,7 +1589,7 @@
       "Encoding": "UTF-8",
       "Language": "en-US",
       "LazyData": "true",
-      "RoxygenNote": "7.3.2",
+      "RoxygenNote": "7.3.3",
       "Collate": "'test_data.R' 'check.R' 'consistency_checks.R' 'stat_formula.R' 'export_type.R' 'generic.R' 'export_utils.R' 'nca_metric_utils.R' 'gtsummary_utils.R' 'filter_utils.R' 'rounding_utils.R' 'theoretical_metrics.R' 'nca_metric.R' 'nca_metrics.R' 'nca_metrics_table.R' 'auc_trap_rule.R' 'auc.R' 'cmax.R' 'tmax.R' 'cmin.R' 'tmin.R' 'cat.R' 'cavg.R' 'thalf.R' 'theoretical_thalf.R' 'time_above_below.R' 'custom_metric.R'",
       "Author": "Nicolas Luyckx [aut, cre]",
       "Maintainer": "Nicolas Luyckx <nicolas.luyckx@calvagone.com>",
@@ -1597,8 +1597,8 @@
       "RemoteHost": "api.github.com",
       "RemoteUsername": "Calvagone",
       "RemoteRepo": "campsisnca",
-      "RemoteRef": "v1.5.1",
-      "RemoteSha": "016c7c8abbe2e74a583933154b93525e2641bd84"
+      "RemoteRef": "v1.5.2",
+      "RemoteSha": "2d498066e7e62928cb53eb19ee69d25c2219d1aa"
     },
     "campsisqual": {
       "Package": "campsisqual",
