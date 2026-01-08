@@ -1428,7 +1428,7 @@
       "RemoteHost": "api.github.com",
       "RemoteUsername": "Calvagone",
       "RemoteRepo": "campsis",
-      "RemoteRef": "79c96351786171b60c8721ad0a9f2c409c09bf8d",
+      "RemoteRef": "v1.8.1",
       "RemoteSha": "79c96351786171b60c8721ad0a9f2c409c09bf8d",
       "Remotes": "Calvagone/campsismod"
     },
